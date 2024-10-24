@@ -1,0 +1,25 @@
+[
+    { "from": "02", "to": "13", "Kill": "",  "opponentMove": "24" },
+    { "from": "11", "to": "02", "Kill": "",  "opponentMove": "44" },
+    { "from": "00", "to": "11", "Kill": "", "opponentMove": "33" },
+    { "from": "42", "to": "24", "Kill": "33", "opponentMove": "64" },
+    { "from": "31", "to": "42", "Kill": "", "opponentMove": "73" },
+    { "from": "42", "to": "53", "Kill": "", "opponentMove": "33" },
+    { "from": "22", "to": "44", "Kill": "33", "opponentMove": "15" },
+    { "from": "24", "to": "35", "Kill": "35", "opponentMove": "24" },
+    { "from": "13", "to": "35", "Kill": "24", "opponentMove": "24" },
+    { "from": "11", "to": "22", "Kill": "", "opponentMove": "33" },
+    { "from": "20", "to": "11", "Kill": "", "opponentMove": "15" },
+    { "from": "40", "to": "31", "Kill": "", "opponentMove": "24" },
+    { "from": "22", "to": "13", "Kill": "", "opponentMove": "06" },
+    { "from": "13", "to": "04", "Kill": "", "opponentMove": "46" },
+    { "from": "35", "to": "26", "Kill": "", "opponentMove": "15" },
+    { "from": "26", "to": "17", "Kill": "", "opponentMove": "55" },
+    { "from": "04", "to": "26", "Kill": "15", "opponentMove": "64" },
+    { "from": "31", "to": "42", "Kill": "", "opponentMove": "46" },
+    { "from": "26", "to": "37", "Kill": "", "opponentMove": "55" },
+    { "from": "37", "to": "46", "Kill": "", "opponentMove": "13" },
+    { "from": "02", "to": "24", "Kill": "13", "opponentMove": "22" },
+    { "from": "11", "to": "33", "Kill": "22", "opponentMove": "55" }
+  ]
+  
