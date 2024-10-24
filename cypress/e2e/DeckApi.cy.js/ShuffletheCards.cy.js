@@ -1,4 +1,4 @@
-//-----------------------------------------//
+//--------------Api Calls using POM---------------//
 import deckapi from "../../pageobject/Deckapi";
 const Api = new deckapi();
 let deck_id;
@@ -75,6 +75,7 @@ describe("Deck Api Testing using POM", () => {
   });
 });
 
+//-------------- Test cases to verify Api Calls---------------//
 /*
 describe("Deck Api Testing", () => {
    it("Define a Decks", () => {
