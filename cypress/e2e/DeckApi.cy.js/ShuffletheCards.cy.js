@@ -75,7 +75,7 @@ describe("Deck Api Testing using POM", () => {
   });
 });
 
-//-------------- Test casesto verify Api Calls---------------//
+//-------------- Test cases to verify Api Calls---------------//
 /*
 describe("Deck Api Testing", () => {
    it("Define a Decks", () => {
