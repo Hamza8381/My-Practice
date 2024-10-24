@@ -24,15 +24,16 @@
 // -- This will overwrite an existing command --
 // Cypress.Commands.overwrite('visit', (originalFn, url, options) => { ... })
 
-// ---------------click Command----------------
+// ---------------click Command----------------//
 
-Cypress.Commands.add('Clicklink' , (label)=>{
-cy.get('a').contains(label).click();
-})
+Cypress.Commands.add("Clicklink", label => {
+  cy.get("a").contains(label).click();
+});
 
-Cypress.Commands.add('Login' , (email , password)=> {
-    cy.get('#username-popup').type(email)
-    cy.get('#pwd-popup').type(password)
-    cy.get('#email-submit-btn').click()
+// ---------------Login Command----------------//
 
-})
+Cypress.Commands.add("Login", (email, password) => {
+  cy.get("#username-popup").type(email);
+  cy.get("#pwd-popup").type(password);
+  cy.get("#email-submit-btn").click();
+});
